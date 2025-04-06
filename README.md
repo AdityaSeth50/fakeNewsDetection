@@ -13,8 +13,8 @@ This project aims to classify news articles as real or fake based on their conte
 * Build a fake news detection system using machine learning algorithms such as logistic regression and evaluate its performance.
 
 ### Prerequisites
-To complete this project, you should understand Python programming, data manipulation, visualization libraries such as Pandas and Matplotlib, and machine learning libraries such as Scikit-Learn. Additionally, some background knowledge of natural language processing (NLP) techniques and text classification methods would be helpful.
+To complete this project, we should understand Python programming, data manipulation, visualization libraries such as Pandas and Matplotlib, and machine learning libraries such as Scikit-Learn. Additionally, some background knowledge of natural language processing (NLP) techniques and text classification methods would be helpful.
 
 ### Resources
-- Check out  [Dataset](https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection)
-- Jump into our [GitHub](https://github.com/Bhavik-Jikadara/Fake-News-Detection)
+- Check out  [Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+- Jump into my [GitHub](https://github.com/AdityaSeth50/fakeNewsDetection)
